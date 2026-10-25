@@ -32,4 +32,4 @@ Python · SQL · Django · Django REST Framework · Selenium · Pandas · NumPy 
 
 ## Connect
 
-[LinkedIn: Chakshit Gaur](https://www.linkedin.com/in/chakshit-gaur)
+[Portfolio](https://chakshitgaur.github.io/chakshit-portfolio/) · [LinkedIn: Chakshit Gaur](https://www.linkedin.com/in/chakshit-gaur)
