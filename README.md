@@ -1,11 +1,28 @@
-![Chakshit Gaur, Python developer](banner.jpg)
-
 # Hi, I'm Chakshit Gaur
 
-Python developer in New Delhi. I turn messy data into working software:
-Django back ends, REST APIs, automation and machine learning.
+Python developer in New Delhi.
+I turn messy data and manual processes into reliable software.
 
-[Portfolio](https://chakshitgaur.github.io/chakshit-portfolio/) · [LinkedIn](https://www.linkedin.com/in/chakshit-gaur) · [Resume](https://chakshitgaur.github.io/chakshit-portfolio/assets/ChakshitGaurResume.pdf)
+## About
+
+I'm a Python developer with a B.Tech in Computer Science. I like taking
+something messy, a pile of data, a manual process, a half-working script,
+and turning it into software people can rely on.
+
+I started out as an AI/ML engineer, building automation, web scraping and
+computer vision tools, including an applicant tracking system for 5,000+
+applicants. Today I focus on Python back ends with Django and REST APIs,
+working with remote clients.
+
+On my own I build projects like an Expense Tracker with 46 automated tests
+and CI, and a customer churn model with a dashboard.
+
+## How I work
+
+- **Understand what is needed.** I work closely with the people who will use it, whether clients, founders or HR teams.
+- **Build it end to end.** From data collection and storage to packaging, delivered as a complete, working system.
+- **Adapt as priorities change.** Small teams and remote clients move fast, so I keep communication clear and adjust quickly.
+- **Hand it over cleanly.** Documentation, training and support, and code others can build on and maintain.
 
 ## Projects
 
@@ -17,3 +34,7 @@ Django back ends, REST APIs, automation and machine learning.
 ## Tools
 
 Python · SQL · Django · Django REST Framework · Selenium · Pandas · NumPy · scikit-learn · XGBoost · SHAP · Streamlit · pytest
+
+## Connect
+
+[LinkedIn: Chakshit Gaur](https://www.linkedin.com/in/chakshit-gaur)
