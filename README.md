@@ -1,8 +1,3 @@
-# Hi, I'm Chakshit Gaur
-
-Python developer in New Delhi.
-I turn messy data and manual processes into reliable software.
-
 ## About
 
 I'm a Python developer with a B.Tech in Computer Science. I like taking
